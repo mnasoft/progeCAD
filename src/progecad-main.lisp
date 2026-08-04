@@ -1,7 +1,5 @@
 ;;;; Программа конвертирования проектов MNAS_Acad_Utils под загрузку в progeCAD
 
-(ql:quickload :mnas-path)
-
 (defparameter *prjs-00*
   (directory "z:/develop/MNAS_acad_utils/src/lsp/*/*.prj")
   "FAS - проекты MNAS_Acad_Utils")
