@@ -1,0 +1,2 @@
+
+[[file+emacs:z:/develop/MNAS_acad_utils/acad_w.sup/MNASoft.prv]]
